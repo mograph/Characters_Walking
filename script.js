@@ -2,7 +2,9 @@ console.clear();
 console.log('lsakdfalskjdflnksd');
 
 const config = {
-  src: 'https://github.com/mograph/Characters_Walking/blob/main/src/Atlas_30.png',
+  //src: 'C:/Users/sljwa/OneDrive/Desktop/Reddit/10 Million Commerical/Sprite_Sheet_AME/Atlas_30.png',
+  //src: 'https://github.com/mograph/Characters_Walking/blob/main/src/Atlas_30.png',
+  //src: 'C:/Users/sljwa/OneDrive/Documents/Reddit_Code/Characters_Walking/src/Atlas_30.png',
   rows: 15,
   cols: 7 };
 
